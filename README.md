@@ -29,7 +29,7 @@
 | 7 | 신경망 기초 (실습) | 과제 1~4 풀기 | 25.09.23 |  |  |  | 
 |  | TOPCIT 역량평가 신청 | [PDF](https://github.com/sejongresearch/2025.AI/blob/main/LectureNote/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B0%E1%84%8C%E1%85%A1%E1%86%BC%5D%20TOPCIT%20%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%85%E1%85%A3%E1%86%BC%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1%20%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A2%20(2025).pdf) | 25.09.23 |  | 과제 <br> 등록마감 9/24(수) <br> 시험응시 11/1(토) |  | 
 | 8 | 딥러닝과 파이토치 <br> (5.1-5.4) | [PDF](https://github.com/sejongresearch/2025.AI/blob/main/LectureNote/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B5%E1%84%8C%E1%85%A1%E1%86%BC%5D%20%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9%E1%84%8E%E1%85%B5%20(2025).pdf) | 25.09.25 |  |  |  | 
-| 9 | 딥러닝과 파이토치 (실습) <br> (5.1-5.4) | 과제 1~2 풀기 | 25.09.30 | [5.4 실습 베이스라인](https://www.kaggle.com/code/yukyungchoi/2025-2-ai-w5-p4-codingnote) | [과제1](https://www.kaggle.com/t/28b1c81e8f81427fabaac5831a6a45a1) <br> [과제2](https://www.kaggle.com/t/df906b6f841e4c5d8d4d397669eca9a5) <br> 5주차 과제 10/13(월) 마감 |  | 
+| 9 | 딥러닝과 파이토치 (실습) <br> (5.1-5.4) | 과제 1~2 풀기 | 25.09.30 | [5.4 실습 베이스라인](https://www.kaggle.com/code/yukyungchoi/2025-2-ai-w5-p4-codingnote) | [과제1](https://www.kaggle.com/t/0a25b4716da14e3db417c25439656639) <br> [과제2](https://www.kaggle.com/t/df906b6f841e4c5d8d4d397669eca9a5) <br> 5주차 과제 10/13(월) 마감 |  | 
 
 
 
